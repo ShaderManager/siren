@@ -1,5 +1,5 @@
 jupyter==1.0.0
-Pillow==7.1.2
+Pillow==8.1.1
 torch==1.5.1
 torchaudio==0.5.0a0+09494ea
 torchvision==0.6.1
